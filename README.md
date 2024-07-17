@@ -14,3 +14,9 @@ https://avtosat-001-site1.ftempurl.com/swagger/index.html
 https://avtosat-001-site1.ftempurl.com/api/Authenticate/Login
 Вход:
 ![image](https://github.com/user-attachments/assets/87155ed0-c4cf-4fd5-8665-7de9b58db75a)
+https://avtosat-001-site1.ftempurl.com/api/Authenticate/Register
+Регистрация:
+![image](https://github.com/user-attachments/assets/72033f52-0df1-4b67-a486-7c742b013126)
+https://avtosat-001-site1.ftempurl.com/api/Authenticate/GetRole
+Получение роли текущего пользователя (текущий пользователь идентифицируется с помощью jwt токена)
+![image](https://github.com/user-attachments/assets/4ed98976-92b9-4ea6-a065-d67060add047)
