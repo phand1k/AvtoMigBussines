@@ -20,3 +20,6 @@ https://avtosat-001-site1.ftempurl.com/api/Authenticate/Register
 https://avtosat-001-site1.ftempurl.com/api/Authenticate/GetRole
 Получение роли текущего пользователя (текущий пользователь идентифицируется с помощью jwt токена)
 ![image](https://github.com/user-attachments/assets/4ed98976-92b9-4ea6-a065-d67060add047)
+https://avtosat-001-site1.ftempurl.com/api/token/RegisterToken
+Получение токена пользователя для отправки push уведомлений в мобильном приложении, так же авторизация проходит с помощью JWT токена (react native expo go)
+![image](https://github.com/user-attachments/assets/b8c3ae5d-f150-4050-8192-fc8eac9debc7)
